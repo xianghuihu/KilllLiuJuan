@@ -63,7 +63,7 @@ class Car {
     g.kennedyIntervalMS = 750;
     g.lineY = g.height * 0.7;
     g.FPS = 60;
-    g.initHP = 5;
+    g.initHP = 100;
 
     createjs.Sound.registerSound({
         src: "./music/tap.mp3",
